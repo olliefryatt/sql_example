@@ -8,7 +8,9 @@ This script pulls from a private data warehouse and creates a unique table upon 
 How to set up inital pg admin. Note this is moving to big querey. 
 
 Install PostgreSQL server, https://huongdanjava.com/install-postgresql-server-using-postgres-app-on-macos.html
+
 Install PGadmin, https://huongdanjava.com/install-pgadmin-a-postgresql-client-on-macos.html
+
 Open up PG admin in applications & enter database credentials.
 
 
