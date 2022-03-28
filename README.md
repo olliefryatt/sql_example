@@ -16,11 +16,17 @@ Open up PG admin in applications & enter database credentials.
 
 ## Setting up db connection in vscode
 
-Install PostgreSQL extension for VS Code.
-Go to PostgreSQL page > Add connection
-follow commands
+a. Install PostgreSQL extension for VS Code.
+
+b. Go to PostgreSQL page > Add connection
+
+c. follow commands, feilds are
+
 • hostname: __.___.___.___
+
 • user:  ____
+
 • password: ____
+
 • name: ___
 
