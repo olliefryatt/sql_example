@@ -1,3 +1,4 @@
+-- This script givesn an overview to the structure of our data. It pulls together several feilds to build a kyc table. 
 
 -- 1. User kyc table (Airtable)
 with airtable as (
