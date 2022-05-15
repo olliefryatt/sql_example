@@ -1,7 +1,7 @@
 
 # About this script
 
-This script pulls from a private data warehouse and creates a unique table upon which we see a sales team's performance and the metrics upon which their commission is paid. This repo is intended as an example of my SQL proficiency. It pulls from private data sources and thus can not be reproduced unless you have correct database credentials. 
+These scripts pulls from a private data warehouse. They are some samples of work & also where some quick mock ups have been stored.
 
 ## Notes on set up
 
