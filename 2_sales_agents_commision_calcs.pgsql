@@ -1,3 +1,5 @@
+-- Table to mock up how commision calculations & performance would be presented.
+
 -- compute daily activity table, number of transactions per user, per day
 WITH daily_agg AS (
     SELECT date, unique_id, COUNT(*) AS transactions
